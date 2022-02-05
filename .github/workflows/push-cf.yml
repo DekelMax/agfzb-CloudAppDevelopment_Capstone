@@ -9,7 +9,7 @@ env:
   IBM_CLOUD_SPACE: dev
   IBM_CLOUD_ORG: dekelmax@gmail.com
   MANIFEST_NAME: manifest.yml
-  IBM_CLOUD_API: e7d7e9ce-9ab8-48b7-b348-34d0445bd2ed:oUeaQukN9TwHAWR519qaZZR3Zkgu5ii69y1KUhPNHxUuSv3aqurReE3mMCME0nBc
+  IBM_CLOUD_API: oUeaQukN9TwHAWR519qaZZR3Zkgu5ii69y1KUhPNHxUuSv3aqurReE3mMCME0nBc
 
 defaults:
   run:
