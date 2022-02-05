@@ -9,7 +9,7 @@ env:
   IBM_CLOUD_SPACE: capstone-project
   IBM_CLOUD_ORG: dekelmax@gmail.com
   MANIFEST_NAME: manifest.yml
-  IBM_CLOUD_API: X7rkJsWSI20lVRIWm-oKlMz3CrAkzfM7rAXgMzlvSx0h
+  IBM_CLOUD_API: ${X7rkJsWSI20lVRIWm-oKlMz3CrAkzfM7rAXgMzlvSx0h}
 
 defaults:
   run:
