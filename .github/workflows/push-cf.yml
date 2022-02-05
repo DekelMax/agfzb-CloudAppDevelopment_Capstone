@@ -6,10 +6,10 @@ on: workflow_dispatch
 env:
   IBM_CLOUD_REGION: eu-gb
   IBM_CLOUD_GROUP: Default
-  IBM_CLOUD_SPACE: dev
+  IBM_CLOUD_SPACE: djangoserver-space
   IBM_CLOUD_ORG: dekelmax@gmail.com
   MANIFEST_NAME: manifest.yml
-  IBM_CLOUD_API: oUeaQukN9TwHAWR519qaZZR3Zkgu5ii69y1KUhPNHxUuSv3aqurReE3mMCME0nBc
+  IBM_CLOUD_API: X7rkJsWSI20lVRIWm-oKlMz3CrAkzfM7rAXgMzlvSx0h
 
 defaults:
   run:
